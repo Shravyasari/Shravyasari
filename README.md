@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a curious and driven final-year Computer Science stude
 - 🤖 AI Intern with experience in computer vision and deep learning projects
 - 🧠 Interested in neural networks, reinforcement learning, and applied machine learning
 - 💬 Always excited to discuss tech, research, and innovation
-- 📫 How to reach me: [shravya.sarii@gmail.com](mailto:shravya.sarii@gmail.com) | [LinkedIn](www.linkedin.com/in/shravyasari)
+- 📫 How to reach me: [shravya.sarii@gmail.com](mailto:shravya.sarii@gmail.com) | [LinkedIn](www.linkedin.com/in/shravyasari) | [Resume](https://drive.google.com/file/d/11_xAV7lQ-SF1_B_GQWEi6ufTDkFzJviY/view?usp=sharing)
 ---
 
 ## 🛠️ Skills
